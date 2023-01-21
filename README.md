@@ -35,7 +35,7 @@ Player de música
 
 
 ## Deploy 
-✅ [Github](https://fernandogomesfg.github.io/music-player/)
+✅ [Github](https://fernandogomesfg.github.io/music-player-boraCodar)
 
 
 
