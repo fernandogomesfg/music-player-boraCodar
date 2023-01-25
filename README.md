@@ -1,4 +1,6 @@
-<h1 align="center"> Music Player </h1>
+<h1 align="center"> Desafio 01</h1>
+
+<h2 align="center"> Music Player </h2>
 
 <p align="center">
 A Rocketseat lançou o #boraCodar e eu já fiz o primeiro desafio. Eis a minha versão do desafio<br>
